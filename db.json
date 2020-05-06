@@ -1,5 +1,5 @@
 {
-"product":[
+"product":
 [{"id":1,"name":"Veracruz","category":"Pink"},
 {"id":2,"name":"Stratus","category":"Crimson"},
 {"id":3,"name":"Envoy","category":"Goldenrod"},
@@ -19,6 +19,5 @@
 {"id":17,"name":"Venture","category":"Blue"},
 {"id":18,"name":"MPV","category":"Khaki"},
 {"id":19,"name":"Topaz","category":"Yellow"},
-{"id":20,"name":"Suburban 2500","category":"Khaki"}
-]
-  }}
+{"id":20,"name":"Suburban 2500","category":"Khaki"}]
+}
